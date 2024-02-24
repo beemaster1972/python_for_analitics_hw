@@ -1,0 +1,1 @@
+[Юпитер Ноутбук второе домашнее задание](https://github.com/beemaster1972/python_for_analitics_hw/blob/main/home_work2/home_work_2.ipynb) 
